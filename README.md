@@ -120,16 +120,16 @@ An AI-powered solution developed during a hackathon to extract and analyze infor
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hetavi2102&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hetavi2102&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetavi2102&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetavi2102&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </p>
 
 ## 🤝 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/hetavi-rampariya">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
