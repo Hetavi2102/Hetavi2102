@@ -5,7 +5,6 @@
 
 ## 👩‍💻 About Me
 
-```python
 class Hetavi:
     def __init__(self):
         self.name = "Hetavi Rampariya"
@@ -20,7 +19,7 @@ class Hetavi:
         self.current_project = "TailorFlow"
         self.learning = ["Flask", "Machine Learning", "Cloud"]
         self.goal = "Become an AI Engineer"
-```
+
 ---
 
 ### 🌱 Currently
