@@ -10,8 +10,7 @@ class Hetavi:
         self.name = "Hetavi Rampariya"
         self.role = "AI & Data Science Engineering Student"
         self.location = "Nashik, India 🇮🇳"
-        self.interests = [
-            "Artificial Intelligence",
+        self.interests = [ "Artificial Intelligence",
             "Machine Learning",
             "Natural Language Processing",
             "Full-Stack Development"
