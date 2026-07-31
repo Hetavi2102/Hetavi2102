@@ -1,7 +1,5 @@
-
-</h3>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=8A2BE2&center=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Hetavi+Rampariya;AI+%26+Data+Science+Engineering+Student;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1446E2&center=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Hetavi+Rampariya;AI+%26+Data+Science+Engineering+Student;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 </p>
 
 <!--
