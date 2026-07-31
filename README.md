@@ -5,10 +5,9 @@ Hi 👋 I'm Hetavi Rampariya
 <h3 align="center">
 AI & Data Science Engineering Student
 </h3>
-
 <p align="center">
-  <img src="https://readme-typingsvg.demolab.comfont=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+I'+Hetavi+Rampariya;AI+%26+Data+Science+Student;Building+TailorFlow;Learning+AI+Everyday;Future+AI+Engineer+🚀" />
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+</p>p>
 
 <!--
 **Hetavi2102/Hetavi2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
