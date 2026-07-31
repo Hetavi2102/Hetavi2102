@@ -1,6 +1,14 @@
-# Hi 👋 I'm Hetavi Rampariya
+<h1 align="center">
+Hi 👋 I'm Hetavi Rampariya
+</h1>
 
-### AI & Data Science Undergraduate
+<h3 align="center">
+AI & Data Science Engineering Student
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+I'm+Hetavi+Rampariya;AI+%26+Data+Science+Student;Building+TailorFlow;Learning+AI+Everyday;Future+AI+Engineer+🚀" />
+</p>
 
 <!--
 **Hetavi2102/Hetavi2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
