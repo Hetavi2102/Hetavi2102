@@ -129,7 +129,7 @@ An AI-powered solution developed during a hackathon to extract and analyze infor
 
 <p align="center">
 
-<a href="www.linkedin.com/in/hetavi-rampariya" target="_blank">
+<a href="https://www.linkedin.com/in/hetavi-rampariya/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
