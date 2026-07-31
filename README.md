@@ -6,7 +6,7 @@ Hi 👋 I'm Hetavi Rampariya
 AI & Data Science Engineering Student
 </h3>
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Hetavi+Rampariya">
 </p>
 
 <!--
