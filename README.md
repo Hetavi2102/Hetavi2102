@@ -41,9 +41,5 @@ class Hetavi:
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,flask,mysql,mongodb,git,github,vscode,aws&perline=7" />
 </p>
