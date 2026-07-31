@@ -1,6 +1,6 @@
 # Hi 👋 I'm Hetavi Rampariya
 
-### AI & Data Science Engineering Student
+### AI & Data Science Undergraduate
 
 <!--
 **Hetavi2102/Hetavi2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
