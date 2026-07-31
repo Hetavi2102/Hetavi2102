@@ -7,7 +7,7 @@ AI & Data Science Engineering Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+I'm+Hetavi+Rampariya;AI+%26+Data+Science+Student;Building+TailorFlow;Learning+AI+Everyday;Future+AI+Engineer+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+I'm+Hetavi+Rampariya;AI+%26+Data+Science+Student;Building+TailorFlow;Learning+AI+Everyday;Future+AI+Engineer+🚀" />
 </p>
 
 <!--
