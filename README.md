@@ -42,4 +42,6 @@ class Hetavi:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,flask,mysql,mongodb,git,github,vscode,aws&perline=7" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,streamlit&perline=7" />
 </p>
