@@ -1,12 +1,7 @@
-<h1 align="center">
-Hi 👋 I'm Hetavi Rampariya
-</h1>
 
-<h3 align="center">
-AI & Data Science Engineering Student
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Hetavi+Rampariya">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=8A2BE2&center=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Hetavi+Rampariya;AI+%26+Data+Science+Engineering+Student;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
 </p>
 
 <!--
