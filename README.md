@@ -114,3 +114,26 @@ A mobile application that allows users to search books, view details, and discov
 An AI-powered solution developed during a hackathon to extract and analyze information from bills.
 
 **Tech Stack:** Python | AI | OCR
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hetavi2102&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetavi2102&layout=compact&theme=tokyonight" />
+
+</p>
+
+## 🤝 Connect With Me
+
+<p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Hetavi2102">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
