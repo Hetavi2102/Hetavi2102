@@ -127,12 +127,14 @@ An AI-powered solution developed during a hackathon to extract and analyze infor
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="www.linkedin.com/in/hetavi-rampariya">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p align="center">
+
+<a href="www.linkedin.com/in/hetavi-rampariya" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/Hetavi2102">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Hetavi2102" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 </p>
