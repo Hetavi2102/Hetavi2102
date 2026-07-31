@@ -40,8 +40,22 @@ class Hetavi:
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,flask,mysql,mongodb,git,github,vscode,aws&perline=7" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,streamlit&perline=7" />
+### 💻 Programming + Web
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
+</p>
+
+### 🗄️ Database + Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,flask" />
+</p>
+
+### 🤖 AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
