@@ -5,21 +5,30 @@
 
 ## 👩‍💻 About Me
 
+```python
 class Hetavi:
     def __init__(self):
         self.name = "Hetavi Rampariya"
         self.role = "AI & Data Science Engineering Student"
         self.location = "Nashik, India 🇮🇳"
-        self.interests = [ "Artificial Intelligence",
+
+        self.interests = [
+            "Artificial Intelligence",
             "Machine Learning",
             "Natural Language Processing",
             "Full-Stack Development"
         ]
-        self.current_project = "TailorFlow"
-        self.learning = ["Flask", "Machine Learning", "Cloud"]
-        self.goal = "Become an AI Engineer"
 
----
+        self.current_project = "TailorFlow"
+
+        self.learning = [
+            "Flask",
+            "Machine Learning",
+            "Cloud Computing"
+        ]
+
+        self.goal = "Become an AI Engineer"
+```
 
 ### 🌱 Currently
 
