@@ -3,17 +3,32 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=1685E2&center=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Hetavi+Rampariya;AI+%26+Data+Science+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
-<!--
-**Hetavi2102/Hetavi2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+```python
+class Hetavi:
+    def __init__(self):
+        self.name = "Hetavi Rampariya"
+        self.role = "AI & Data Science Engineering Student"
+        self.location = "Nashik, India 🇮🇳"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Full-Stack Development"
+        ]
+        self.current_project = "TailorFlow"
+        self.learning = ["Flask", "Machine Learning", "Cloud"]
+        self.goal = "Become an AI Engineer"
+```
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+
+- 🔭 Building **TailorFlow**
+- 🤖 Working on AI & NLP projects
+- ☁️ AWS Cloud Practitioner Certified
+- 📚 Learning Full-Stack Development
+- 💡 Always curious about solving real-world problems using AI
+
+
