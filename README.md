@@ -59,3 +59,58 @@ class Hetavi:
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🔍 ContractLens - Privacy-Safe AI Contract Analyzer
+> AI-powered legal document analysis platform that identifies high-risk clauses and generates contract insights using NLP and LLMs.
+
+**Tech Stack:** Python | Flask | NLP | FAISS | spaCy | LLM API | PyMuPDF
+
+✨ Features:
+- 📄 Automated contract summarization
+- 🔎 Key clause extraction
+- ⚠️ Risk identification using AI
+- 🧠 Semantic search with FAISS
+- 📊 Interactive risk analysis dashboard
+
+---
+
+### 🧵 TailorFlow - Smart Tailor Management System
+> Full-stack platform designed to digitize tailor business operations with efficient customer, order, and delivery management.
+
+**Tech Stack:** Python | Flask | MySQL | MongoDB | HTML | CSS | JavaScript
+
+✨ Features:
+- 👤 Customer and measurement management
+- 📦 Order tracking system
+- 🗄️ Hybrid database architecture
+- 🔄 Complete CRUD operations
+- 📱 Responsive user interface
+
+---
+
+### 🛒 SmartShelf - Inventory Optimization System
+> Machine learning-based inventory management system that predicts demand and provides actionable stock insights.
+
+**Tech Stack:** Python | Streamlit | XGBoost | Pandas | NumPy | Scikit-learn
+
+✨ Features:
+- 📊 Interactive inventory dashboard
+- 📈 Demand forecasting using XGBoost
+- 📦 Stock optimization insights
+- 🔍 Data-driven inventory decisions
+
+---
+
+### 📚 BookFinder - Android Book Discovery App
+A mobile application that allows users to search books, view details, and discover new reads using real-time API data.
+
+**Tech Stack:** Kotlin | Retrofit | GSON | Room Database | Glide
+
+---
+
+### 🧾 AI Bill Decoder - Hackathon Project
+An AI-powered solution developed during a hackathon to extract and analyze information from bills.
+
+**Tech Stack:** Python | AI | OCR
